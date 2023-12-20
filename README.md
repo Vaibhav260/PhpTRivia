@@ -1,5 +1,5 @@
 # PhpTRivia
-A basic website with top tech and researches information
+A basic website with top technology and research information.
 
 #LiveSite
 https://resonant-conkies-a892e6.netlify.app/
